@@ -37,7 +37,7 @@ This page connect with the databse to authenticate user by providing input email
         
 
 ## style.css ##
-For styling of the logijn form
+For styling of the login form
 
 ## index,php ##
 The page that request the email and password to authenticate the user bewfore sending to the database
